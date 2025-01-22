@@ -1,0 +1,556 @@
+{
+    "enties": [
+        {
+            "id": 1,
+            "name": "주말",
+            "type": "TIME",
+            "start": 47,
+            "end": 49,
+            "lettercase": "null"
+        },
+        {
+            "id": 2,
+            "name": "주말",
+            "type": "TIME",
+            "start": 1346,
+            "end": 1348,
+            "lettercase": "null"
+        },
+        {
+            "id": 3,
+            "name": "주말",
+            "type": "TIME",
+            "start": 2140,
+            "end": 2142,
+            "lettercase": "null"
+        },
+        {
+            "id": 4,
+            "name": "주말",
+            "type": "TIME",
+            "start": 2162,
+            "end": 2164,
+            "lettercase": "null"
+        },
+        {
+            "id": 5,
+            "name": "주말",
+            "type": "TIME",
+            "start": 3616,
+            "end": 3618,
+            "lettercase": "null"
+        },
+        {
+            "id": 6,
+            "name": "일요일",
+            "type": "TIME",
+            "start": 75,
+            "end": 78,
+            "lettercase": "null"
+        },
+        {
+            "id": 7,
+            "name": "다음 주",
+            "type": "TIME",
+            "start": 89,
+            "end": 93,
+            "lettercase": "null"
+        },
+        {
+            "id": 8,
+            "name": "다음 주",
+            "type": "TIME",
+            "start": 4655,
+            "end": 4659,
+            "lettercase": "null"
+        },
+        {
+            "id": 9,
+            "name": "다음 주",
+            "type": "TIME",
+            "start": 7168,
+            "end": 7172,
+            "lettercase": "null"
+        },
+        {
+            "id": 10,
+            "name": "저번 주",
+            "type": "TIME",
+            "start": 108,
+            "end": 112,
+            "lettercase": "null"
+        },
+        {
+            "id": 11,
+            "name": "저번 주",
+            "type": "TIME",
+            "start": 744,
+            "end": 748,
+            "lettercase": "null"
+        },
+        {
+            "id": 12,
+            "name": "저번 주",
+            "type": "TIME",
+            "start": 1503,
+            "end": 1507,
+            "lettercase": "null"
+        },
+        {
+            "id": 13,
+            "name": "저번 주",
+            "type": "TIME",
+            "start": 2311,
+            "end": 2315,
+            "lettercase": "null"
+        },
+        {
+            "id": 14,
+            "name": "저번 주",
+            "type": "TIME",
+            "start": 2863,
+            "end": 2867,
+            "lettercase": "null"
+        },
+        {
+            "id": 15,
+            "name": "저번 주",
+            "type": "TIME",
+            "start": 4463,
+            "end": 4467,
+            "lettercase": "null"
+        },
+        {
+            "id": 16,
+            "name": "저번 주",
+            "type": "TIME",
+            "start": 4728,
+            "end": 4732,
+            "lettercase": "null"
+        },
+        {
+            "id": 17,
+            "name": "저번 주",
+            "type": "TIME",
+            "start": 8279,
+            "end": 8283,
+            "lettercase": "null"
+        },
+        {
+            "id": 18,
+            "name": "지난 주",
+            "type": "TIME",
+            "start": 270,
+            "end": 274,
+            "lettercase": "null"
+        },
+        {
+            "id": 19,
+            "name": "지난 주",
+            "type": "TIME",
+            "start": 8059,
+            "end": 8063,
+            "lettercase": "null"
+        },
+        {
+            "id": 20,
+            "name": "홍범도",
+            "type": "PER",
+            "start": 300,
+            "end": 303,
+            "lettercase": "null"
+        },
+        {
+            "id": 21,
+            "name": "중국",
+            "type": "LOC",
+            "start": 517,
+            "end": 519,
+            "lettercase": "null"
+        },
+        {
+            "id": 22,
+            "name": "중국",
+            "type": "LOC",
+            "start": 3190,
+            "end": 3192,
+            "lettercase": "null"
+        },
+        {
+            "id": 23,
+            "name": "윤석렬",
+            "type": "PER",
+            "start": 625,
+            "end": 628,
+            "lettercase": "null"
+        },
+        {
+            "id": 24,
+            "name": "삼성전자",
+            "type": "PROD",
+            "start": 903,
+            "end": 907,
+            "lettercase": "null"
+        },
+        {
+            "id": 25,
+            "name": "삼성전자",
+            "type": "PROD",
+            "start": 954,
+            "end": 958,
+            "lettercase": "null"
+        },
+        {
+            "id": 26,
+            "name": "삼성전자",
+            "type": "PROD",
+            "start": 1169,
+            "end": 1173,
+            "lettercase": "null"
+        },
+        {
+            "id": 27,
+            "name": "삼성전자",
+            "type": "PROD",
+            "start": 3643,
+            "end": 3647,
+            "lettercase": "null"
+        },
+        {
+            "id": 28,
+            "name": "삼성전자",
+            "type": "PROD",
+            "start": 3909,
+            "end": 3913,
+            "lettercase": "null"
+        },
+        {
+            "id": 29,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 903,
+            "end": 905,
+            "lettercase": "null"
+        },
+        {
+            "id": 30,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 954,
+            "end": 956,
+            "lettercase": "null"
+        },
+        {
+            "id": 31,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 1112,
+            "end": 1114,
+            "lettercase": "null"
+        },
+        {
+            "id": 32,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 1169,
+            "end": 1171,
+            "lettercase": "null"
+        },
+        {
+            "id": 33,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 2000,
+            "end": 2002,
+            "lettercase": "null"
+        },
+        {
+            "id": 34,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 2013,
+            "end": 2015,
+            "lettercase": "null"
+        },
+        {
+            "id": 35,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 2064,
+            "end": 2066,
+            "lettercase": "null"
+        },
+        {
+            "id": 36,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 2231,
+            "end": 2233,
+            "lettercase": "null"
+        },
+        {
+            "id": 37,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 2506,
+            "end": 2508,
+            "lettercase": "null"
+        },
+        {
+            "id": 38,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 2548,
+            "end": 2550,
+            "lettercase": "null"
+        },
+        {
+            "id": 39,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 2682,
+            "end": 2684,
+            "lettercase": "null"
+        },
+        {
+            "id": 40,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 2872,
+            "end": 2874,
+            "lettercase": "null"
+        },
+        {
+            "id": 41,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 3401,
+            "end": 3403,
+            "lettercase": "null"
+        },
+        {
+            "id": 42,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 3643,
+            "end": 3645,
+            "lettercase": "null"
+        },
+        {
+            "id": 43,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 3723,
+            "end": 3725,
+            "lettercase": "null"
+        },
+        {
+            "id": 44,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 3909,
+            "end": 3911,
+            "lettercase": "null"
+        },
+        {
+            "id": 45,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 4565,
+            "end": 4567,
+            "lettercase": "null"
+        },
+        {
+            "id": 46,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 5026,
+            "end": 5028,
+            "lettercase": "null"
+        },
+        {
+            "id": 47,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 5054,
+            "end": 5056,
+            "lettercase": "null"
+        },
+        {
+            "id": 48,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 5112,
+            "end": 5114,
+            "lettercase": "null"
+        },
+        {
+            "id": 49,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 5177,
+            "end": 5179,
+            "lettercase": "null"
+        },
+        {
+            "id": 50,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 5190,
+            "end": 5192,
+            "lettercase": "null"
+        },
+        {
+            "id": 51,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 5201,
+            "end": 5203,
+            "lettercase": "null"
+        },
+        {
+            "id": 52,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 5220,
+            "end": 5222,
+            "lettercase": "null"
+        },
+        {
+            "id": 53,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 8076,
+            "end": 8078,
+            "lettercase": "null"
+        },
+        {
+            "id": 54,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 8384,
+            "end": 8386,
+            "lettercase": "null"
+        },
+        {
+            "id": 55,
+            "name": "삼성",
+            "type": "PROD",
+            "start": 8451,
+            "end": 8453,
+            "lettercase": "null"
+        },
+        {
+            "id": 56,
+            "name": "하이닉스",
+            "type": "PROD",
+            "start": 1063,
+            "end": 1067,
+            "lettercase": "null"
+        },
+        {
+            "id": 57,
+            "name": "엔비디아",
+            "type": "PROD",
+            "start": 1090,
+            "end": 1094,
+            "lettercase": "null"
+        },
+        {
+            "id": 58,
+            "name": "엔비디아",
+            "type": "PROD",
+            "start": 1483,
+            "end": 1487,
+            "lettercase": "null"
+        },
+        {
+            "id": 59,
+            "name": "구 월달",
+            "type": "TIME",
+            "start": 1116,
+            "end": 1120,
+            "lettercase": "null"
+        },
+        {
+            "id": 60,
+            "name": "구 월달",
+            "type": "TIME",
+            "start": 1193,
+            "end": 1197,
+            "lettercase": "null"
+        },
+        {
+            "id": 61,
+            "name": "요번 달",
+            "type": "TIME",
+            "start": 1198,
+            "end": 1202,
+            "lettercase": "null"
+        },
+        {
+            "id": 62,
+            "name": "요번 달",
+            "type": "TIME",
+            "start": 1216,
+            "end": 1220,
+            "lettercase": "null"
+        },
+        {
+            "id": 63,
+            "name": "레인보우 로보틱스",
+            "type": "PROD",
+            "start": 1875,
+            "end": 1884,
+            "lettercase": "null"
+        },
+        {
+            "id": 64,
+            "name": "레인보우 로보틱스",
+            "type": "PROD",
+            "start": 3319,
+            "end": 3328,
+            "lettercase": "null"
+        },
+        {
+            "id": 65,
+            "name": "저번주",
+            "type": "TIME",
+            "start": 1989,
+            "end": 1992,
+            "lettercase": "null"
+        },
+        {
+            "id": 66,
+            "name": "저번주",
+            "type": "TIME",
+            "start": 2319,
+            "end": 2322,
+            "lettercase": "null"
+        },
+        {
+            "id": 67,
+            "name": "주도주",
+            "type": "PROD",
+            "start": 2090,
+            "end": 2093,
+            "lettercase": "null"
+        },
+        {
+            "id": 68,
+            "name": "금요일",
+            "type": "TIME",
+            "start": 2146,
+            "end": 2149,
+            "lettercase": "null"
+        },
+        {
+            "id": 69,
+            "name": "한화",
+            "type": "PROD",
+            "start": 2235,
+            "end": 2237,
+            "lettercase": "null"
+        }
+    ]
+}
